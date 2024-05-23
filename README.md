@@ -1,7 +1,4 @@
-## Operating Systems and Networks | Monsoon 2023
-### Course Project
-
-Team 31: Revanth Gundam, Nanda Rajiv, Tanveer Ul Mustafa
+Team: Revanth Gundam, Nanda Rajiv, Tanveer Ul Mustafa
 
 # Implementing a Network File System
 
