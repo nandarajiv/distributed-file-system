@@ -1,0 +1,13 @@
+SS1
+
+./dir1
+./dir1/1.txt
+STOP
+
+SS2
+
+./dir2
+./dir2/2.txt
+./dir2/dir2-1
+./dir2/dir2-1/2-1.txt
+STOP

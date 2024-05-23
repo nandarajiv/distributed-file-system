@@ -1,0 +1,3 @@
+- no two ss have the same paths - the set of permissable paths for one ss is distinct from the set of permissable paths of the others
+- folders that are being created do not have a '.' character in them
+- whenever passing paths in terminal, we never end with a slash, no matter file or folder
